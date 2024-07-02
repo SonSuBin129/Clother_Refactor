@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -28,3 +29,10 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+=======
+# Clother_Refactor
+
+4학년 전공 HCI 프론트엔드 코드를 리팩토링하는 프로젝트입니다.
+HTML, javascript, css 조합을
+React, typescript, tailwind.css로 변경합니다.
+>>>>>>> b51ad5696a862b4939fbcd08c2ea0f4822531c43
